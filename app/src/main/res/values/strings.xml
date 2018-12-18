@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hiilarit-app</string>
+    <string name="app_label">Hiilarit</string>
+    <string name="search_hint">HINT</string>
 </resources>
