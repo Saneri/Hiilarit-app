@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun addButtonPressed(view: View) {
-        val intent = Intent(this, SearchAndAdd::class.java)
+        val intent = Intent(this, AddToListActivity::class.java)
         startActivity(intent)
     }
 }
