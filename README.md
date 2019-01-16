@@ -1,5 +1,9 @@
 # Hiilarit-app
 
+<h1 align=center>
+<img src="logo/horizontal.png" width=40%>
+</h1>
+
 ### Why
 Hiilarit will make it faster and easier to calculate carbohydrates of a upcoming meal.
 This app is aimed for diabetics who have to calculate the amount of carbonhydrtaes in each meal in order to adjust insulin.
