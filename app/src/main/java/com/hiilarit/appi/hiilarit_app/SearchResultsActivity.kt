@@ -40,7 +40,6 @@ class SearchResultsActivity : AppCompatActivity() {
                     // Never goes here for unknown reason
                 },
                 Response.ErrorListener { error ->
-                    // TODO: Handle error
                     textView.text = "Response: %s".format(error.message)
                     // atm error message gives response
                 }
